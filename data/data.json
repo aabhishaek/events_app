@@ -1,0 +1,48 @@
+{
+  "events_categories": [
+    {
+      "id": "Chennai",
+      "title": "Events in Chennai",
+      "Description": "Events happening in chennai this week",
+      "image": "https://im.rediff.com/news/2014/aug/25chennai1.jpg"
+    },
+    {
+      "id": "Delhi",
+      "title": "Events in Delhi",
+      "Description": "Events happening in Delhi this week",
+      "image": "https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg"
+    },
+    {
+      "id": "Bengaluru",
+      "title": "Events in Bengaluru",
+      "Description": "Events happening in Bengaluru this week",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE72sJd6s40tKXJEhSnd6u6t3JyPd6bSItJA&usqp=CAU"
+    }
+  ],
+  "allEvents": [
+    {
+      "id": "Chennai-Comic-Con",
+      "title": "Chennai Comic Con",
+      "city": "Chennai",
+      "description": "The first ever comic con to happen in chennai",
+      "image": "https://im.rediff.com/news/2014/aug/25chennai1.jpg",
+      "emails_registered": []
+    },
+    {
+      "id": "Delhi-Comic-Con",
+      "title": "Delhi Comic Con",
+      "city": "Delhi",
+      "description": "The yearly comic con in delhi",
+      "image": "https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg",
+      "emails_registered": []
+    },
+    {
+      "id": "Bengaluru-Comic-Con",
+      "title": "Bengaluru Comic Con",
+      "city": "Bengaluru",
+      "description": "The yearly comic con in bengaluru",
+      "image": "",
+      "emails_registered": []
+    }
+  ]
+}
